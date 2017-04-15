@@ -23,6 +23,6 @@ Deux projets sont présents :
 
 
 ##Lancer le script de compilation et d'execution de la chaine complète (Generator + Stimulateur)
->./setupGenerator.sh nomDuFichier
+>./setupGenerator.sh chart.scxml
 
-**nomDuFichier : Doit être présent dans Generator/src/main/resources**
+**chart.scxml : Doit être présent dans Generator/src/main/resources**
