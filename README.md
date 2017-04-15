@@ -1,6 +1,11 @@
 ###### Auteur
 *Abdelkarim Andolerzak - SI4*
 
+# Domaine d'utilisation
+J'ai utilisé le JAVA car je pensais que ce serait utile d'avoir des state machine pour des Web Services en J2E. 
+Par exemple, on ne peut pas faire une certaine opération (GET,POST,PUT,DELETE), si l'on s'est pas authentifié au préalable. 
+Je me suis inspiré du projet **ISA** que l'on a actuellement. 
+
 # Introduction
 Deux projets sont présents : 
 - Un projet **Generator** qui génère le code de la state machine
